@@ -1,0 +1,9 @@
+--- Lịch sử tin nhắn DM với: BananaBot (ID: 1367334708165476362) ---
+
+
+BananaBot (2025-05-01)
+ Nội dung: **Create new whitelist**
+`98628db8a468367c0624bba6`
+Expired: Lifetime
+
+--------------------------------------------------

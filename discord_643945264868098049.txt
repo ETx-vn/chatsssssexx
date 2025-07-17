@@ -1,0 +1,31 @@
+--- Lịch sử tin nhắn DM với: discord (ID: 1390532950906634281) ---
+
+
+discord (2025-07-04)
+ Nội dung: # 📣 Cập nhật về Nâng Cấp Máy Chủ
+
+Chào bạn! Chúng tôi vừa nhận được vài tin tức thú vị về Nâng Cấp Máy Chủ đây.
+
+**Có Gì Mới:** Chúng tôi sắp cung cấp thêm nhiều cách tùy chỉnh máy chủ khác với các đặc quyền bổ sung! Sử dụng những Nâng Cấp được cung cấp để trực tiếp mở khóa các đặc quyền này mà không bị yêu cầu cấp độ máy chủ.
+
+**Đặc quyền máy chủ mới:**
+- **Tag Máy Chủ (3 Nâng Cấp)** - Tùy chỉnh số nhận diện 4 ký tự dành cho thành viên
+- **Kiểu Vai Trò Nâng Cao (3 Nâng Cấp)** - Các hiệu ứng chuyển màu và hình chiếu hologram cho các vai trò
+
+**Lưu ý:** *Mỗi đặc quyền cần duy trì 3 Nâng Cấp để tiếp tục hoạt động. Nếu bị gỡ bỏ, đặc quyền sẽ bị vô hiệu.*
+
+**Cách Thức Hoạt Động:** Các đặc quyền bổ sung sử dụng Nâng Cấp riêng biệt với cấp độ máy chủ của bạn. Bạn sẽ cần **Nâng Cấp có thể sử dụng được**, *nghĩa là* Nâng Cấp đã áp dụng cho cấp độ sẽ không được tính. Các đặc quyền cấp độ hiện tại của bạn sẽ giữ nguyên không đổi!
+
+## [Hãy dùng thử cho một trong các Máy Chủ của bạn nhé](<https://www.discord.com/feature/boost/1365698027934711930>)
+
+Truy cập vào **thẻ Nâng Cấp Máy Chủ** mới ở đầu danh sách kênh của bạn!
+
+*Hiện chỉ có trên máy tính bàn.* | [Tìm hiểu thêm](<https://discord.com/blog/get-more-from-your-boosts-with-new-server-perks>)
+
+**🎉 Chúc bạn Nâng Cấp vui vẻ!**
+– Đội Ngũ Discord
+
+*Bạn nhận được tin nhắn này vì bạn là quản trị viên của một máy chủ đang hoạt động hoặc một máy chủ có Nâng Cấp.*
+(Embed Image): https://cdn.discordapp.com/assets/content/b840ac4d5ed74bc65b2ca37930617e844d89c01725d594ea5c942bc95cfd2672.png
+
+--------------------------------------------------

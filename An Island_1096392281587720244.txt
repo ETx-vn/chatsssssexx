@@ -1,0 +1,191 @@
+--- Lịch sử tin nhắn DM với: An Island (ID: 1117723347644584016) ---
+
+
+An Island (2023-06-12)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/7bf54b6bb0f63dd178e90088f194228e.webp
+
+An Island (2023-06-12)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/7bf54b6bb0f63dd178e90088f194228e.webp
+
+An Island (2023-06-13)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/7bf54b6bb0f63dd178e90088f194228e.webp
+
+An Island (2023-06-13)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/7bf54b6bb0f63dd178e90088f194228e.webp
+
+An Island (2023-06-28)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/7bf54b6bb0f63dd178e90088f194228e.webp
+
+An Island (2023-07-15)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/7bf54b6bb0f63dd178e90088f194228e.webp
+
+An Island (2023-10-01)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/7bf54b6bb0f63dd178e90088f194228e.webp
+
+An Island (2023-10-21)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/7bf54b6bb0f63dd178e90088f194228e.webp
+
+An Island (2023-10-31)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/7bf54b6bb0f63dd178e90088f194228e.webp
+
+An Island (2023-11-07)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/7bf54b6bb0f63dd178e90088f194228e.webp
+
+An Island (2024-01-18)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/7bf54b6bb0f63dd178e90088f194228e.webp
+
+An Island (2024-02-03)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/7bf54b6bb0f63dd178e90088f194228e.webp
+
+An Island (2024-02-23)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/72b01887f3c04ff26ade762d9a939721.webp
+
+imkazu157 (2024-02-24)
+ Nội dung: 
+image.png (URL: https://cdn.discordapp.com/attachments/1117723347644584016/1210835996032241684/image.png?ex=687746e5&is=6875f565&hm=07ba4b255ab6f18ffcac482215a8d7da041510419c3905cbb4dd0825b50d301b&)
+
+An Island (2024-03-05)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/72b01887f3c04ff26ade762d9a939721.webp
+
+An Island (2024-05-29)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/72b01887f3c04ff26ade762d9a939721.webp
+
+imkazu157 (2024-07-07)
+ Nội dung: a
+
+An Island (2024-07-07)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/72b01887f3c04ff26ade762d9a939721.webp
+
+An Island (2024-07-07)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/72b01887f3c04ff26ade762d9a939721.webp
+
+An Island (2024-07-08)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/72b01887f3c04ff26ade762d9a939721.webp
+
+An Island (2024-07-31)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/72b01887f3c04ff26ade762d9a939721.webp
+
+An Island (2024-07-31)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/72b01887f3c04ff26ade762d9a939721.webp
+
+An Island (2024-10-19)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/72b01887f3c04ff26ade762d9a939721.webp
+
+An Island (2024-11-23)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/72b01887f3c04ff26ade762d9a939721.webp
+
+imkazu157 (2024-11-23)
+ Nội dung: script_key = "cnEBQlnErJaLFAGVibQFqVjUHOYjOiLC"
+getgenv().FixCrash = false -- Turn it On For Hopping Server, Improve Performance But Silent Aim On Mob And Player
+getgenv().FixCrash2 = false -- Turn it On For Hopping Server, Improve Performance But Will Remove Speed Changer
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3b2169cf53bc6104dabe8e19562e5cc2.lua"))()
+
+An Island (2024-12-06)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/72b01887f3c04ff26ade762d9a939721.webp
+
+An Island (2024-12-11)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/72b01887f3c04ff26ade762d9a939721.webp
+
+imkazu157 (2024-12-11)
+ Nội dung: script_key = "cnEBQlnErJaLFAGVibQFqVjUHOYjOiLC"
+getgenv().SetFpsCap = false
+getgenv().FpsCap = 30
+getgenv().OneClickUi = true -- Only Open Necessacry Ui For One Click
+getgenv().FpsBoost1 = false
+    getgenv().WhiteScreen = false
+    getgenv().UiCheckItems = true
+    getgenv().OneClickSetting = {
+        Enable=true,
+        UnlimitGetQuest=true,
+        TripleQuest=true,
+        AutoAddStats=true,
+        RedeemCode=true,
+        Sea2KeyHop=true,
+        FruitEat = { --Priority, Name, 
+            [1] = {"Magma-Magma"},
+            [2] = {"Magma-Magma"}
+        },
+        EatFruitFromStorage = true,
+        SnipeFruit = true,
+        SnipeFruitMirage = true,
+        HopIfFoundNearExploiter = false,
+        HopHakiColor =false,
+        HopTushita = false,
+        HopValkyriehelm = true,
+        HopMirrorFractal=true,
+        FarmPole = false, -- Turn off If Want Focus Level
+        FarmItems = false, --Turn off If Want Focus Level And CDK, THis Only get After You Get God Human
+        DisableSoulGuitar = false,
+        DisableCDK = false,
+
+    }
+    getgenv().OneClickFarms = {
+        ["Shark Anchor"] = false,
+    }
+getgenv().Team = "Pirates"
+getgenv().AutoLoad = false --Will Load Script On Server Hop
+ loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3b2169cf53bc6104dabe8e19562e5cc2.lua"))()
+
+imkazu157 (2024-12-11)
+ Nội dung: script_key = "cnEBQlnErJaLFAGVibQFqVjUHOYjOiLC"
+getgenv().Team = "Pirates"
+getgenv().FixCrash = false -- Turn it On For Hopping Server, Improve Performance But Silent Aim On Mob And Player
+getgenv().FixCrash2 = false -- Turn it On For Hopping Server, Improve Performance But Will Remove Speed Changer
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3b2169cf53bc6104dabe8e19562e5cc2.lua"))()
+
+An Island (2024-12-25)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/72b01887f3c04ff26ade762d9a939721.webp
+
+An Island (2025-01-13)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/72b01887f3c04ff26ade762d9a939721.webp
+
+An Island (2025-02-07)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/72b01887f3c04ff26ade762d9a939721.webp
+
+An Island (2025-02-13)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/72b01887f3c04ff26ade762d9a939721.webp
+
+An Island (2025-03-20)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/72b01887f3c04ff26ade762d9a939721.webp
+
+An Island (2025-07-12)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/bd58feeda141d6e79e6df3df64241c8e.webp
+
+An Island (2025-07-13)
+ Nội dung: 
+ (Embed Thumbnail): https://cdn.discordapp.com/icons/953918500970307594/bd58feeda141d6e79e6df3df64241c8e.webp
+
+imkazu157 (2025-07-13)
+ Nội dung: dm
+
+--------------------------------------------------

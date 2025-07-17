@@ -1,0 +1,333 @@
+--- Lịch sử tin nhắn DM với: ducga0768_23103 (ID: 1359490922156654733) ---
+
+
+ht_cute (2025-07-11)
+ Nội dung: hú
+
+ht_cute (2025-07-11)
+ Nội dung: <@1302457586729353257>
+
+ht_cute (2025-07-11)
+ Nội dung: cho t xin cái scirpt leak map s
+
+ht_cute (2025-07-11)
+ Nội dung: vs
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: lm j
+
+ht_cute (2025-07-11)
+ Nội dung: 
+voice-message.ogg (URL: https://cdn.discordapp.com/attachments/1359490922156654733/1393165291470716978/voice-message.ogg?ex=68781c89&is=6876cb09&hm=30cd6de513d5501d6ed49f0fa4f2ae8e42dae62e4529ef79b24b5d137137df0b&)
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: um
+
+ht_cute (2025-07-11)
+ Nội dung: Gửi t mượn vs
+
+ht_cute (2025-07-11)
+ Nội dung: Sos
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: local Params = {
+    RepoURL = "https://raw.githubusercontent.com/luau/SynSaveInstance/main/",
+    SSI = "saveinstance",
+}
+
+local synsaveinstance = loadstring(game:HttpGet(Params.RepoURL .. Params.SSI .. ".luau", true), Params.SSI)()
+
+local CustomOptions = { SafeMode = true, timeout = 15, SaveBytecode = true }
+
+synsaveinstance(CustomOptions)
+
+ht_cute (2025-07-11)
+ Nội dung: Ok t c.ơn
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: m mày c t mượn scrip m đi
+
+ht_cute (2025-07-11)
+ Nội dung: :))
+
+ht_cute (2025-07-11)
+ Nội dung: 
+voice-message.ogg (URL: https://cdn.discordapp.com/attachments/1359490922156654733/1393168323251798057/voice-message.ogg?ex=68781f5c&is=6876cddc&hm=0de0cbd87f5867491771736aa28fb2d5bdbde45a202a347500c3ad7b537d71b2&)
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: có acc clone k
+
+ht_cute (2025-07-11)
+ Nội dung: Có đúng 1 cái acc đg dùng
+
+ht_cute (2025-07-11)
+ Nội dung: Acc chính t cũng đứt
+
+ht_cute (2025-07-11)
+ Nội dung: 7day
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: t dùng chung vs m
+
+ht_cute (2025-07-11)
+ Nội dung: Ok
+
+ht_cute (2025-07-11)
+ Nội dung: À no
+
+ht_cute (2025-07-11)
+ Nội dung: Acc này còn nhiều cái qt
+
+ht_cute (2025-07-11)
+ Nội dung: Ê <@1302457586729353257>
+
+ht_cute (2025-07-11)
+ Nội dung: Sao cái map t leak
+
+ht_cute (2025-07-11)
+ Nội dung: Nó chạy xanh chữ r
+
+ht_cute (2025-07-11)
+ Nội dung: Mà ra check
+
+ht_cute (2025-07-11)
+ Nội dung: Lại đ có map nhờ
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: a
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: may phai bam
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: bam vao tim kiem
+image.png (URL: https://cdn.discordapp.com/attachments/1359490922156654733/1393202288906207242/image.png?ex=68783efe&is=6876ed7e&hm=ce23384641208716ea98c69041d1f22d4b05d1f0ddbf7102217da5add44d885e&)
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: án vào kích thướng
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: chi chi
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: dồ đó
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: bấm lung tung
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: là ra
+
+ht_cute (2025-07-11)
+ Nội dung: Ê chia sẻ link xeno t xem
+
+ht_cute (2025-07-11)
+ Nội dung: Tối gọi chia sẻ màn hình chỉ t với <@1302457586729353257>
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: tối t bận học
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: 
+Xeno-v1.2.35.zip (URL: https://cdn.discordapp.com/attachments/1359490922156654733/1393202788351217796/Xeno-v1.2.35.zip?ex=68783f75&is=6876edf5&hm=d74d64a22c20386cd1b05e81eaffba7f2c8bb145512bdf0ac087123e20ced445&)
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: di
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: do
+
+ht_cute (2025-07-11)
+ Nội dung: Giờ đc ko
+
+ht_cute (2025-07-11)
+ Nội dung: Ko thì quay lại chỉ t với <@1302457586729353257>
+
+ht_cute (2025-07-11)
+ Nội dung: Làm xong quay màn hinh lại ấy
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: u
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: t lam cho
+
+ht_cute (2025-07-11)
+ Nội dung: Giúp t va
+
+ht_cute (2025-07-11)
+ Nội dung: Vs
+
+ht_cute (2025-07-11)
+ Nội dung: Luôn nhá
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: 10p
+
+ht_cute (2025-07-11)
+ Nội dung: Ok
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: 
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: xem ne
+
+ht_cute (2025-07-11)
+ Nội dung: R ok lm
+Đi <@1302457586729353257>
+
+ht_cute (2025-07-11)
+ Nội dung: Rồi ok t cảm ơn
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: roi do
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: e
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: m cho t mươnnj acc phu m t leak dc k
+
+ht_cute (2025-07-11)
+ Nội dung: ;))
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: di
+
+ht_cute (2025-07-11)
+ Nội dung: Tutu coiii
+
+ht_cute (2025-07-11)
+ Nội dung: M lập acc đi cu
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: k choi dc
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: may cai game k choi dc
+
+ht_cute (2025-07-11)
+ Nội dung: Sao ko chs đc
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: game qd k choi dc
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: k du ngat
+
+ht_cute (2025-07-11)
+ Nội dung: M tìm tên chứ
+
+ht_cute (2025-07-11)
+ Nội dung: Vl acc t vẫn chơi bth cu
+
+ht_cute (2025-07-11)
+ Nội dung: Ms tạo hqua
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: `
+image.png (URL: https://cdn.discordapp.com/attachments/1359490922156654733/1393209111704764487/image.png?ex=68784558&is=6876f3d8&hm=a2f81cc6eb30cbb284249716d7f95b4f8ed0959a8a4c27fef2602dc1a75b5fd0&)
+
+ht_cute (2025-07-11)
+ Nội dung: Dcu m
+
+ht_cute (2025-07-11)
+ Nội dung: Nó đóng map
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: Không thể truy cập vào trải nghiệm này vì trải nghiệm chưa được xếp hạng
+
+ht_cute (2025-07-11)
+ Nội dung: Thì đó
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: dc co may cai
+image.png (URL: https://cdn.discordapp.com/attachments/1359490922156654733/1393209332920881273/image.png?ex=6878458d&is=6876f40d&hm=6a40633eecb2186caf2f2d977fb9ab2757f00acdf3fce1e3b37d6721bf748fcf&)
+
+ht_cute (2025-07-11)
+ Nội dung: Ê <@1302457586729353257>
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: 
+image.png (URL: https://cdn.discordapp.com/attachments/1359490922156654733/1393209454568149113/image.png?ex=687845aa&is=6876f42a&hm=5e427ddc9e1cf86107d8b3c9101f41a6b0d9cdd801654415d8a2e52a34e97432&)
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: cho t di
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: j
+
+ht_cute (2025-07-11)
+ Nội dung: Thay acc
+
+ht_cute (2025-07-11)
+ Nội dung: Tạo 1 acc khác
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: m t giup cai
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: t luoi
+
+ht_cute (2025-07-11)
+ Nội dung: T đg ăn cơm
+
+ht_cute (2025-07-11)
+ Nội dung: Để t xem acc t thế nào đã
+
+ht_cute (2025-07-11)
+ Nội dung: <@1302457586729353257>
+
+ht_cute (2025-07-11)
+ Nội dung: gr ng lớn là của t
+
+ducga0768_23103 (2025-07-11)
+ Nội dung: u
+
+ducga0768_23103 (2025-07-12)
+ Nội dung: T DI
+
+ht_cute (2025-07-12)
+ Nội dung: Hả
+
+ht_cute (2025-07-12)
+ Nội dung: Là sao <@1302457586729353257>
+
+ducga0768_23103 (2025-07-12)
+ Nội dung: tạo đi
+
+ht_cute (2025-07-12)
+ Nội dung: Tạo gì á
+
+ducga0768_23103 (2025-07-12)
+ Nội dung: acc
+
+ducga0768_23103 (2025-07-12)
+ Nội dung: tạo chx
+
+ht_cute (2025-07-12)
+ Nội dung: Đg chơi
+
+ht_cute (2025-07-12)
+ Nội dung: Tutu
+
+ht_cute (2025-07-12)
+ Nội dung: M tự tạo đi tr
+
+ducga0768_23103 (2025-07-12)
+ Nội dung: ê
+
+ht_cute (2025-07-12)
+ Nội dung: Hả
+
+ducga0768_23103 (2025-07-12)
+ Nội dung: cho t xin scri m
+
+ht_cute (2025-07-12)
+ Nội dung: Đ bt vứt đâu r
+
+ht_cute (2025-07-12)
+ Nội dung: Tutu đã
+
+--------------------------------------------------

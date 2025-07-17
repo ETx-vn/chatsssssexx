@@ -1,0 +1,22 @@
+--- Lịch sử tin nhắn DM với: hvietkhanh (ID: 1359710669972177048) ---
+
+
+hvietkhanh (2025-04-10)
+ Nội dung: og có script kh og:v
+
+dn2501 (2025-04-10)
+ Nội dung: loadstring(game:HttpGet("https://raw.githubusercontent.com/buang5516/buanghub/main/BUANGHUB.lua"))()
+
+hvietkhanh (2025-04-10)
+ Nội dung: tui dùng cái
+
+hvietkhanh (2025-04-10)
+ Nội dung: solara có dc kh og
+
+dn2501 (2025-04-10)
+ Nội dung: Ko biết
+
+hvietkhanh (2025-04-10)
+ Nội dung: oke tkiu og nha
+
+--------------------------------------------------

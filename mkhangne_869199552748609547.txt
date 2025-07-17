@@ -1,0 +1,125 @@
+--- Lịch sử tin nhắn DM với: mkhangne (ID: 1335112790842675372) ---
+
+
+dn2501 (2025-02-10)
+ Nội dung: https://discord.gg/E6bPcdtg
+
+dn2501 (2025-02-10)
+ Nội dung: Vô phần bypass
+IMG_3853.png (URL: https://cdn.discordapp.com/attachments/1335112790842675372/1338524014502477824/IMG_3853.png?ex=6879b7e1&is=68786661&hm=067326dbeac0deba0ac5f53b3ef9adf42fd401be7f486c11c05d7a02991fa761&)
+
+dn2501 (2025-02-10)
+ Nội dung: Click to bypass
+IMG_3854.png (URL: https://cdn.discordapp.com/attachments/1335112790842675372/1338524083695915089/IMG_3854.png?ex=6879b7f2&is=68786672&hm=a24b77d8082cc76f0aa30f5cc36492e4c7fd7aeffb8115a359ba21c15d0f9a5b&)
+
+dn2501 (2025-02-10)
+ Nội dung: Dán link ấn gửi
+IMG_3855.png (URL: https://cdn.discordapp.com/attachments/1335112790842675372/1338524113366679584/IMG_3855.png?ex=6879b7f9&is=68786679&hm=ddd0c19d7c53134ea5a917c7784e3ae05a243f379534803b3c97699467b6c92b&)
+
+dn2501 (2025-02-10)
+ Nội dung: R đợi
+
+mkhangne (2025-02-10)
+ Nội dung: à oke
+
+mkhangne (2025-02-10)
+ Nội dung: camon dka =))
+
+dn2501 (2025-02-19)
+ Nội dung: getgenv().FocusWave = 1 -- Priority limit wave
+getgenv().PriorityCards = { -- Priority tags when wave = FocusWave
+    "- Cooldown I",
+    "+ Attack I",
+    "+ Range I",
+    "+ Random Effects I",
+    "- Cooldown II",
+    "+ Attack II",
+    "+ Range II",
+    "+ Random Effects II",
+    "- Cooldown III",
+    "+ Range III",
+    "+ Attack III",
+    "+ Random Effects III"
+}
+getgenv().Cards = { -- All cards after FocusWave wave ends
+    "+ Enemy Speed II",
+    "+ Enemy Health III",
+    "+ Random Curses II", 
+    "+ Explosive Deaths III",
+    "+ Explosive Deaths I",
+    "+ Explosive Deaths II",
+    "+ Random Curses I", 
+    "+ Enemy Shield III",
+    "+ Enemy Shield II",
+    "+ Enemy Speed I",
+    "+ Enemy Shield I",
+    "+ Enemy Health II",
+    "+ Enemy Health I",
+    "+ Boss Damage I",
+    "+ Boss Damage II",
+    "+ Boss Damage III",
+    "+ Yen I",
+    "+ Yen II",
+    "+ Yen III",
+    "- Cooldown I",
+    "+ Attack I",
+    "+ Range I",
+    "- Cooldown II",
+    "+ Attack II",
+    "+ Range II",
+    "+ Range III",
+    "- Cooldown III",
+    "+ Attack III",
+    "+ Double Attack",
+    "+ Double Range",
+    "+ Enemy Regen I",
+    "+ Enemy Regen II",
+    "+ Enemy Regen III",
+    "+ New Path"
+}
+-- Priority from bottom to top in all items
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bocchi-World/Bocchi-Main/refs/heads/main/pickcard.lua"))()
+
+dn2501 (2025-02-19)
+ Nội dung: <:pepe:1235154535744274523>
+
+dn2501 (2025-02-19)
+ Nội dung: Add vô phần autoex
+
+mkhangne (2025-02-19)
+ Nội dung: dán đâu
+
+dn2501 (2025-02-19)
+ Nội dung: Này nó là 1 script
+
+dn2501 (2025-02-19)
+ Nội dung: Copy tất dán vô như script buang là đc
+
+mkhangne (2025-02-19)
+ Nội dung: oke
+
+dn2501 (2025-06-04)
+ Nội dung: 1379836821550399592
+
+mkhangne (2025-06-04)
+ Nội dung: adu
+
+dn2501 (2025-06-19)
+ Nội dung: https://discord.gg/FGKJYUdx
+
+dn2501 (2025-06-19)
+ Nội dung: Vô giúp làm event pls
+
+mkhangne (2025-06-19)
+ Nội dung: event nào
+
+dn2501 (2025-06-19)
+ Nội dung: Vô thôi là đc r
+
+mkhangne (2025-06-19)
+ Nội dung: oke vô r
+
+dn2501 (2025-06-19)
+ Nội dung: Ty :))
+
+--------------------------------------------------

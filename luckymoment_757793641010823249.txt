@@ -1,0 +1,7 @@
+--- Lịch sử tin nhắn DM với: luckymoment (ID: 1341404674326265918) ---
+
+
+luckymoment (2025-04-22)
+ Nội dung: loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/all-script-2/refs/heads/main/loader.lua"))()
+
+--------------------------------------------------

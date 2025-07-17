@@ -1,0 +1,1312 @@
+--- Lịch sử tin nhắn DM với: khang128_6 (ID: 1366407689558556747) ---
+
+
+khang128_6 (2025-06-18)
+ Nội dung: 
+
+khang128_6 (2025-06-18)
+ Nội dung: <@1326787383181443163> ê bt làm auto team ko
+
+ht_cute (2025-06-18)
+ Nội dung: Lmj v ?
+
+khang128_6 (2025-06-18)
+ Nội dung: Đang tuyển Dev á
+
+ht_cute (2025-06-18)
+ Nội dung: T nhác lm mấy cái kia
+
+ht_cute (2025-06-18)
+ Nội dung: Giờ t toàn đi dev build đồ
+
+khang128_6 (2025-06-18)
+ Nội dung: Có bt ai làm ko
+
+ht_cute (2025-06-18)
+ Nội dung: T bt mà t nhác lm
+
+ht_cute (2025-06-18)
+ Nội dung: M quen nhiều thg mat
+
+ht_cute (2025-06-18)
+ Nội dung: Thằng mạnh đó
+
+ht_cute (2025-06-18)
+ Nội dung: Hoàng nam đó
+
+ht_cute (2025-06-18)
+ Nội dung: Tman đó
+
+khang128_6 (2025-06-18)
+ Nội dung: Là ai
+
+ht_cute (2025-06-18)
+ Nội dung: Vl
+
+ht_cute (2025-06-18)
+ Nội dung: M kb m còn kbt là ai
+
+ht_cute (2025-06-18)
+ Nội dung: Nhm tuyển map nào v
+
+khang128_6 (2025-06-18)
+ Nội dung: POAVA
+
+ht_cute (2025-06-18)
+ Nội dung: Của thằng tman á
+
+ht_cute (2025-06-18)
+ Nội dung: Của tman thì chịu
+
+ht_cute (2025-06-18)
+ Nội dung: T vs nó từ r
+
+ht_cute (2025-06-18)
+ Nội dung: Có lm t cũng chịu á
+
+khang128_6 (2025-06-18)
+ Nội dung: Ko
+
+khang128_6 (2025-06-18)
+ Nội dung: Của t
+
+ht_cute (2025-06-18)
+ Nội dung: T thì t lm cho map t suốt
+
+ht_cute (2025-06-18)
+ Nội dung: Đưa link gr coi
+
+khang128_6 (2025-06-18)
+ Nội dung: https://discord.gg/zkmfs2Ys
+
+khang128_6 (2025-06-18)
+ Nội dung: <@1326787383181443163> ê m bt làm locker ko
+
+ht_cute (2025-06-18)
+ Nội dung: t ns r
+
+ht_cute (2025-06-18)
+ Nội dung: t bt làm
+
+ht_cute (2025-06-18)
+ Nội dung: nhm t nhác lm
+
+ht_cute (2025-06-18)
+ Nội dung: nên t đưa m script
+
+ht_cute (2025-06-18)
+ Nội dung: vs locker
+
+ht_cute (2025-06-18)
+ Nội dung: m tự build nha
+
+khang128_6 (2025-06-18)
+ Nội dung: Ok
+
+ht_cute (2025-06-18)
+ Nội dung: ok
+
+khang128_6 (2025-06-18)
+ Nội dung: <@1326787383181443163> đâu
+
+ht_cute (2025-06-18)
+ Nội dung: Tuty
+
+ht_cute (2025-06-18)
+ Nội dung: T đg ăn sáng
+
+khang128_6 (2025-06-18)
+ Nội dung: <@1326787383181443163> locker phải có whitelist mới đc
+
+ht_cute (2025-06-18)
+ Nội dung: t đưa r m tự xử
+
+khang128_6 (2025-06-18)
+ Nội dung: <@1326787383181443163> đâu
+
+ht_cute (2025-06-18)
+ Nội dung: Tutu m kp dục sẽ có
+
+khang128_6 (2025-06-18)
+ Nội dung: Nhưng mà có whitelist ko
+
+ht_cute (2025-06-18)
+ Nội dung: <@1297370158763085835>
+
+khang128_6 (2025-06-18)
+ Nội dung: J
+
+ht_cute (2025-06-18)
+ Nội dung: 
+locker.rbxm (URL: https://cdn.discordapp.com/attachments/1366407689558556747/1384770978533478510/locker.rbxm?ex=68788df9&is=68773c79&hm=c4038bc78cc28eacbb20f446d36d24a460384a73ddbe74cf5f04a74ecba123c9&)
+
+ht_cute (2025-06-18)
+ Nội dung: local part = script.Parent.LockerCamera
+local db = false
+local plr = game.Players.LocalPlayer:WaitForChild("Humanoid")
+
+--Function
+
+script.Parent.MetalDoor.Attachment.ProximityPrompt.Triggered:Connect(function(presser)
+    if presser ~= game.Players.LocalPlayer then
+        plr.
+    end
+end)
+
+khang128_6 (2025-06-18)
+ Nội dung: <@1326787383181443163> ê bt đổi thưởng mã phần tặng nitro ko
+
+ht_cute (2025-06-18)
+ Nội dung: :))
+
+khang128_6 (2025-06-18)
+ Nội dung: Bt ko
+
+khang128_6 (2025-06-18)
+ Nội dung: <@1326787383181443163> ủa mở file locker vô phải làm sao
+
+ht_cute (2025-06-18)
+ Nội dung: vcl kbt lm à ?
+
+khang128_6 (2025-06-18)
+ Nội dung: Ự
+
+khang128_6 (2025-06-18)
+ Nội dung: Mở vô làm sao
+
+khang128_6 (2025-06-18)
+ Nội dung: Rồi cái này làm gì
+
+ht_cute (2025-06-18)
+ Nội dung: owner như qq v
+
+ht_cute (2025-06-18)
+ Nội dung: script locker
+
+ht_cute (2025-06-18)
+ Nội dung: dume
+
+khang128_6 (2025-06-18)
+ Nội dung: Locker có dùng đâu mà bt
+
+ht_cute (2025-06-18)
+ Nội dung: :))
+
+ht_cute (2025-06-18)
+ Nội dung: vl
+
+ht_cute (2025-06-18)
+ Nội dung: ngáo r
+
+khang128_6 (2025-06-18)
+ Nội dung: Mới nghiên cứu 1 nữa à
+
+khang128_6 (2025-06-18)
+ Nội dung: <@1326787383181443163> có gì hướng dẫn ko
+
+ht_cute (2025-06-18)
+ Nội dung: :))
+
+ht_cute (2025-06-18)
+ Nội dung: no
+
+ht_cute (2025-06-18)
+ Nội dung: t nhác chỉ lắm tự tìm hiểu đi
+
+khang128_6 (2025-06-18)
+ Nội dung: Chỉ đại đi
+
+khang128_6 (2025-06-18)
+ Nội dung: <@1326787383181443163> với vô map thay cái cổng chính đẹp đẹp xíu
+
+ht_cute (2025-06-18)
+ Nội dung: :))
+
+ht_cute (2025-06-18)
+ Nội dung: M đã add t đâu
+
+khang128_6 (2025-06-18)
+ Nội dung: Rồi
+
+ht_cute (2025-06-18)
+ Nội dung: Đau
+
+ht_cute (2025-06-18)
+ Nội dung: Cs thấy tbao đâu
+
+khang128_6 (2025-06-18)
+ Nội dung: Vô studio phần group t là thấy
+
+ht_cute (2025-06-18)
+ Nội dung: Um
+
+khang128_6 (2025-06-18)
+ Nội dung: https://www.roblox.com/games/80470729780069/QK5-NG-NAI-TRAINING-SITES-V2-1
+
+khang128_6 (2025-06-18)
+ Nội dung: <@1326787383181443163> m thử làm auto team thử sẵn bt luôn
+
+ht_cute (2025-06-18)
+ Nội dung: Éo
+
+khang128_6 (2025-06-18)
+ Nội dung: M bt Dev nào bt làm ko
+
+ht_cute (2025-06-18)
+ Nội dung: mẹ ko
+
+ht_cute (2025-06-18)
+ Nội dung: t đg chạy cả 2 máy tinh để lm cho m đó con lợn
+
+khang128_6 (2025-06-18)
+ Nội dung: Cái gì 2 máy tính
+
+ht_cute (2025-06-18)
+ Nội dung: ừ
+
+ht_cute (2025-06-18)
+ Nội dung: t 2 cái laptop mà
+
+khang128_6 (2025-06-18)
+ Nội dung: <@1326787383181443163> vậy chụp xem thử
+
+ht_cute (2025-06-18)
+ Nội dung: 
+IMG_6178.jpg (URL: https://cdn.discordapp.com/attachments/1366407689558556747/1384776992078954570/IMG_6178.jpg?ex=68789392&is=68774212&hm=62670f19ddcc2ef97d1b1db7a7fb4789396d280c6813f760f798d66cd79f77c3&)
+
+ht_cute (2025-06-18)
+ Nội dung: đc chưa m
+
+khang128_6 (2025-06-18)
+ Nội dung: :))
+
+ht_cute (2025-06-18)
+ Nội dung: ko đủ uy tín à
+
+khang128_6 (2025-06-18)
+ Nội dung: M kết nối sao hay vậy
+
+ht_cute (2025-06-18)
+ Nội dung: kết nối gì
+
+khang128_6 (2025-06-18)
+ Nội dung: Hai cái máy tính kìa
+
+ht_cute (2025-06-18)
+ Nội dung: nó là 2 máy riêng biệt mà
+
+khang128_6 (2025-06-18)
+ Nội dung: Nhà giàu có khác
+
+ht_cute (2025-06-18)
+ Nội dung: :))
+
+ht_cute (2025-06-18)
+ Nội dung: bth mà
+
+ht_cute (2025-06-18)
+ Nội dung: giàu có gì đâu
+
+ht_cute (2025-06-18)
+ Nội dung: nhà t nghèo nhất huyện
+
+ht_cute (2025-06-18)
+ Nội dung: map leak à <@1297370158763085835>
+
+ht_cute (2025-06-18)
+ Nội dung: ê <@1297370158763085835>
+
+ht_cute (2025-06-18)
+ Nội dung: map leak à
+
+ht_cute (2025-06-18)
+ Nội dung: map v còn đòi gì nữa\
+
+khang128_6 (2025-06-18)
+ Nội dung: <@1326787383181443163> ko map tự xây
+
+ht_cute (2025-06-25)
+ Nội dung: V à
+
+ht_cute (2025-06-25)
+ Nội dung: https://discord.gg/qtZzvav9
+
+khang128_6 (2025-06-25)
+ Nội dung: <@1326787383181443163> giờ làm việc đc ki
+
+khang128_6 (2025-06-25)
+ Nội dung: Ko
+
+ht_cute (2025-06-25)
+ Nội dung: Map đ mở
+
+ht_cute (2025-06-25)
+ Nội dung: Bt lm đ gì
+
+khang128_6 (2025-06-25)
+ Nội dung: Có mà
+
+ht_cute (2025-06-25)
+ Nội dung: Cái map trắng tinh
+
+khang128_6 (2025-06-25)
+ Nội dung: <@1326787383181443163> map tên QK5 á
+
+khang128_6 (2025-06-25)
+ Nội dung: 
+Screenshot_20250625-180906.png (URL: https://cdn.discordapp.com/attachments/1366407689558556747/1387389544386789488/Screenshot_20250625-180906.png?ex=68783173&is=6876dff3&hm=f8a25a3bcfae35f8dfccb1518a4df479530c3b92c9f0a450e96f93a089e59dd4&)
+
+khang128_6 (2025-06-25)
+ Nội dung: <@1326787383181443163> M mua ở đâu
+
+ht_cute (2025-06-25)
+ Nội dung: Map này á hả
+
+ht_cute (2025-06-25)
+ Nội dung: Map này t đc cho
+
+ht_cute (2025-06-25)
+ Nội dung: Sao v cu ?
+
+khang128_6 (2025-06-25)
+ Nội dung: T là người giữ bản quyền
+
+ht_cute (2025-06-25)
+ Nội dung: V à
+
+ht_cute (2025-06-25)
+ Nội dung: Tht luôn á
+
+ht_cute (2025-06-25)
+ Nội dung: Sao t ko thấy map đó nhỉ
+
+ht_cute (2025-06-25)
+ Nội dung: Map m có mỗi 1 cái không có tên
+
+khang128_6 (2025-06-25)
+ Nội dung: <@1326787383181443163> trời ơi có mà cha tên QK5 TRANING SIR
+
+ht_cute (2025-06-25)
+ Nội dung: Đéo có nha
+
+ht_cute (2025-06-25)
+ Nội dung: T đã đc add vào éo
+
+ht_cute (2025-06-25)
+ Nội dung: T đg định nt hỏi m
+
+ht_cute (2025-06-25)
+ Nội dung: Sao ko add t này
+
+ht_cute (2025-06-25)
+ Nội dung: Vs lại script map qk4 t thay hết r
+
+khang128_6 (2025-06-25)
+ Nội dung: Vô mà
+
+ht_cute (2025-06-25)
+ Nội dung: Hả
+
+khang128_6 (2025-06-25)
+ Nội dung: M vô studio map T kéo xuống nữa
+
+ht_cute (2025-06-25)
+ Nội dung: Đ có dume
+
+ht_cute (2025-06-25)
+ Nội dung: Nhm này <@1297370158763085835>
+
+ht_cute (2025-06-25)
+ Nội dung: Form map t vs map m giống
+
+ht_cute (2025-06-25)
+ Nội dung: Lm đồng minh đi
+
+ht_cute (2025-06-25)
+ Nội dung: T qk4 m qk5
+
+ht_cute (2025-06-25)
+ Nội dung: Đ giống
+
+ht_cute (2025-06-25)
+ Nội dung: Script thì là của t
+
+ht_cute (2025-06-25)
+ Nội dung: Locker của t
+
+ht_cute (2025-06-25)
+ Nội dung: Nhiều cái nữa của t lăm
+
+ht_cute (2025-06-25)
+ Nội dung: Map này t có từ 2021
+
+khang128_6 (2025-06-25)
+ Nội dung: <@1326787383181443163> T đang kiếm cách add uni vào locker
+
+ht_cute (2025-06-25)
+ Nội dung: Tại t mở sqct thôi
+
+ht_cute (2025-06-25)
+ Nội dung: Dễ ẹc
+
+khang128_6 (2025-06-25)
+ Nội dung: Lúc đầu M kêu ko bt làm mà
+
+ht_cute (2025-06-25)
+ Nội dung: M có thể ko tin nhm mấy model trong map m cũng từ 1 tay t vẽ ra đó
+
+ht_cute (2025-06-25)
+ Nội dung: Tại vì đó là nvu của hdev chứ kp của dev build
+
+ht_cute (2025-06-25)
+ Nội dung: Ok
+
+khang128_6 (2025-06-25)
+ Nội dung: 
+IMG_1741502036351_1750493067966.jpg (URL: https://cdn.discordapp.com/attachments/1366407689558556747/1387390828342935562/IMG_1741502036351_1750493067966.jpg?ex=687832a5&is=6876e125&hm=4787c364efce48a667a6eb0c4aa5c586d01a5186f9cae99ed262fb3807202b02&)
+
+khang128_6 (2025-06-25)
+ Nội dung: <@1326787383181443163> map Này T tạo có j M làm thêm nha
+
+ht_cute (2025-06-25)
+ Nội dung: :))
+
+khang128_6 (2025-06-25)
+ Nội dung: Thiếu khu AF và BG
+
+ht_cute (2025-06-25)
+ Nội dung: Map cc gì đây
+
+khang128_6 (2025-06-25)
+ Nội dung: <@1326787383181443163> map này trc T mua
+
+ht_cute (2025-06-25)
+ Nội dung: Ê <@1297370158763085835>
+
+khang128_6 (2025-06-25)
+ Nội dung: J
+
+ht_cute (2025-06-25)
+ Nội dung: Đóng map qk5 đi
+
+ht_cute (2025-06-25)
+ Nội dung: Có gì qua t pt
+
+khang128_6 (2025-06-25)
+ Nội dung: No
+
+ht_cute (2025-06-25)
+ Nội dung: M lm chủ lực cái map này đi
+
+ht_cute (2025-06-25)
+ Nội dung: Ko thì map m vẫn sẽ bay bth
+
+ht_cute (2025-06-25)
+ Nội dung: Tại vì có bản quyền model của t trong đó
+
+khang128_6 (2025-06-25)
+ Nội dung: Nguyên map T đã mua bản quyền lại hết rồi
+
+ht_cute (2025-06-25)
+ Nội dung: 🤑
+
+ht_cute (2025-06-25)
+ Nội dung: V cơ
+
+ht_cute (2025-06-25)
+ Nội dung: Mua bao nhiêu
+
+ht_cute (2025-06-25)
+ Nội dung: Thế thì m chưa bt t là ai r khang ơi
+
+khang128_6 (2025-06-25)
+ Nội dung: T trả giá quá nên nó để T 200k
+
+ht_cute (2025-06-25)
+ Nội dung: 😂
+
+ht_cute (2025-06-25)
+ Nội dung: Map t bán 350-400
+
+khang128_6 (2025-06-25)
+ Nội dung: Mà map lỏ quá
+
+ht_cute (2025-06-25)
+ Nội dung: Bán 200
+
+ht_cute (2025-06-25)
+ Nội dung: Dcm ngứa cc
+
+khang128_6 (2025-06-25)
+ Nội dung: <@1326787383181443163> rồi M có làm ko để T bt tuyển Dev thêm
+
+ht_cute (2025-06-25)
+ Nội dung: Dr t xoá hết t chỉ để khung thôi hahaa
+
+ht_cute (2025-06-25)
+ Nội dung: Bị lừa r
+
+ht_cute (2025-06-25)
+ Nội dung: Add bố m vào map
+
+khang128_6 (2025-06-25)
+ Nội dung: Chưa tạo
+
+ht_cute (2025-06-25)
+ Nội dung: Dcm
+
+ht_cute (2025-06-25)
+ Nội dung: https://discord.gg/qtZzvav9
+
+ht_cute (2025-06-25)
+ Nội dung: Vô chs eiuu
+
+ht_cute (2025-06-25)
+ Nội dung: T cbi decore lại hết map kia
+
+ht_cute (2025-06-25)
+ Nội dung: Để lâu nhìn xấu chán r
+
+khang128_6 (2025-06-25)
+ Nội dung: <@1326787383181443163> 7h T mới tạo
+
+ht_cute (2025-06-25)
+ Nội dung: T đg cbi bán map sĩ quan chính trị
+
+ht_cute (2025-06-25)
+ Nội dung: Map ko bé iu
+
+khang128_6 (2025-06-25)
+ Nội dung: <@1326787383181443163> có gì 7h vô làm map nha nào ổn định hết thì nâng cấp map sao
+
+ht_cute (2025-06-25)
+ Nội dung: <@1297370158763085835>
+
+ht_cute (2025-06-25)
+ Nội dung: T khuyên tht
+
+ht_cute (2025-06-25)
+ Nội dung: Đóng map qk5 đi
+
+ht_cute (2025-06-25)
+ Nội dung: Mất map t ko cứu đâu
+
+khang128_6 (2025-06-25)
+ Nội dung: Vô map đâu mà đóng
+
+khang128_6 (2025-06-25)
+ Nội dung: Có map đâu mà đóng
+
+ht_cute (2025-06-25)
+ Nội dung: Đừng mở
+
+ht_cute (2025-06-25)
+ Nội dung: Chỉ cần roblox nó thấy map m mở
+
+ht_cute (2025-06-25)
+ Nội dung: Trùng vs map t 1 model hay script
+
+ht_cute (2025-06-25)
+ Nội dung: Là map m bay đấy
+
+khang128_6 (2025-06-25)
+ Nội dung: T làm map khác mà
+
+ht_cute (2025-06-25)
+ Nội dung: Um ok
+
+ht_cute (2025-06-25)
+ Nội dung: Có gì add t
+
+ht_cute (2025-06-25)
+ Nội dung: Nào t đi vc về t lm
+
+khang128_6 (2025-06-25)
+ Nội dung: Ok
+
+ht_cute (2025-06-25)
+ Nội dung: Ok
+
+ht_cute (2025-06-25)
+ Nội dung: Giờ t đg rảnh
+
+ht_cute (2025-06-25)
+ Nội dung: Đg ngồi lm map kia
+
+khang128_6 (2025-06-25)
+ Nội dung: Giờ T đang bận
+
+ht_cute (2025-06-25)
+ Nội dung: Ok
+
+khang128_6 (2025-06-25)
+ Nội dung: https://www.roblox.com/vi/games/89177726345916/QK5-TRAINING-SIR
+ (Embed Thumbnail): https://t5.rbxcdn.com/180DAY-59ab922549d07d843703286ebae9e97e
+
+khang128_6 (2025-06-25)
+ Nội dung: Link á
+
+ht_cute (2025-06-25)
+ Nội dung: :)
+
+ht_cute (2025-06-25)
+ Nội dung: Ok
+
+ht_cute (2025-06-26)
+ Nội dung: T bt m đổi ý mà <@1297370158763085835>
+
+ht_cute (2025-06-26)
+ Nội dung: Chất nhơ của t trong map m tràn full trong script r
+
+ht_cute (2025-06-26)
+ Nội dung: <@1297370158763085835> m thuê về
+
+ht_cute (2025-06-26)
+ Nội dung: M hỏi
+
+ht_cute (2025-06-26)
+ Nội dung: Có cách nào gỡ chất nhơ của Creaker không
+
+khang128_6 (2025-06-26)
+ Nội dung: Mệt
+
+ht_cute (2025-06-26)
+ Nội dung: Hahaa
+
+ht_cute (2025-06-26)
+ Nội dung: M phản t
+
+ht_cute (2025-06-26)
+ Nội dung: Thì m chỉ có con đường chết
+
+ht_cute (2025-06-26)
+ Nội dung: Ko sống nỗi đâu
+
+khang128_6 (2025-06-26)
+ Nội dung: T nói vậy thôi chứ t bán group rồi
+
+ht_cute (2025-06-26)
+ Nội dung: V à
+
+ht_cute (2025-06-26)
+ Nội dung: V qua gr t mà làm đi thôi <@1297370158763085835>
+
+khang128_6 (2025-06-26)
+ Nội dung: Chán
+
+ht_cute (2025-06-26)
+ Nội dung: .
+
+ht_cute (2025-06-26)
+ Nội dung: Qua đây t nâng đỡ cho
+
+khang128_6 (2025-06-26)
+ Nội dung: Buồn thật sự
+
+ht_cute (2025-06-26)
+ Nội dung: <@1297370158763085835>
+
+khang128_6 (2025-06-26)
+ Nội dung: Nào hết buồn rồi tính
+
+ht_cute (2025-06-26)
+ Nội dung: Qua phát triển qk4 đê
+
+ht_cute (2025-06-26)
+ Nội dung: Cứ lm đi khắc vui
+
+ht_cute (2025-06-26)
+ Nội dung: Kp lo
+
+ht_cute (2025-06-26)
+ Nội dung: Lm vs t ko buồn nỗi đâu
+
+khang128_6 (2025-06-26)
+ Nội dung: Từ giả thế giới quân đội rồi
+
+ht_cute (2025-06-26)
+ Nội dung: Concac
+
+ht_cute (2025-06-26)
+ Nội dung: M về lm map t
+
+khang128_6 (2025-06-26)
+ Nội dung: Đang buồn
+
+ht_cute (2025-06-26)
+ Nội dung: T cho m chs
+
+ht_cute (2025-06-26)
+ Nội dung: Yên tâm
+
+ht_cute (2025-06-26)
+ Nội dung: <@1297370158763085835> về đây di
+
+ht_cute (2025-06-26)
+ Nội dung: Nhiều cái hay lắmm
+
+ht_cute (2025-06-26)
+ Nội dung: Chứ t từ mặt ông bảo kia r
+
+ht_cute (2025-06-26)
+ Nội dung: Ko chs nữa đâu nếu ông kia về ấy
+
+ht_cute (2025-06-26)
+ Nội dung: Mà m đ đưa gr t pt <@1297370158763085835>
+
+ht_cute (2025-06-26)
+ Nội dung: Bán lm cc gì
+
+khang128_6 (2025-06-26)
+ Nội dung: <@1326787383181443163> group t bỏ tiền mua mà đưa m
+
+khang128_6 (2025-06-26)
+ Nội dung: Chẳng khác nào ăn cướp
+
+ht_cute (2025-06-26)
+ Nội dung: :))
+
+ht_cute (2025-06-26)
+ Nội dung: Ăn cướp éo gì
+
+ht_cute (2025-06-26)
+ Nội dung: T thay m phát triển mà gọi là ăn cướp à
+
+ht_cute (2025-06-26)
+ Nội dung: Mé thg ngéo
+
+khang128_6 (2025-06-26)
+ Nội dung: T sẽ làm cộng đồng Việt Nam thứ 2
+
+khang128_6 (2025-06-26)
+ Nội dung: Rolay
+
+ht_cute (2025-06-26)
+ Nội dung: :))
+
+ht_cute (2025-06-26)
+ Nội dung: Để t 1 chúc
+
+ht_cute (2025-06-26)
+ Nội dung: Chức
+
+khang128_6 (2025-06-26)
+ Nội dung: Mà ko người làm
+
+ht_cute (2025-06-26)
+ Nội dung: Kiếm đi
+
+khang128_6 (2025-06-27)
+ Nội dung: <@1326787383181443163> leak map cộng đồng việt Nam giúp
+
+ht_cute (2025-06-27)
+ Nội dung: :))
+
+khang128_6 (2025-06-27)
+ Nội dung: <@1326787383181443163> leak đi về chỉnh sửa lại làm
+
+ht_cute (2025-06-27)
+ Nội dung: :))
+
+ht_cute (2025-06-27)
+ Nội dung: M gan cỡ v cơ à
+
+khang128_6 (2025-06-27)
+ Nội dung: :)))
+
+khang128_6 (2025-06-27)
+ Nội dung: Có ai bt xây map đâu
+
+khang128_6 (2025-06-27)
+ Nội dung: Và ko có bán
+
+ht_cute (2025-06-27)
+ Nội dung: :))
+
+ht_cute (2025-07-02)
+ Nội dung: <@1297370158763085835>
+
+ht_cute (2025-07-02)
+ Nội dung: T lm co owner cho cu
+
+khang128_6 (2025-07-02)
+ Nội dung: J
+
+khang128_6 (2025-07-02)
+ Nội dung: <@1326787383181443163> chưa có map
+
+ht_cute (2025-07-02)
+ Nội dung: Ủa
+
+khang128_6 (2025-07-02)
+ Nội dung: T nói vậy thôi chứ chưa có
+
+ht_cute (2025-07-02)
+ Nội dung: Thì cứ đưa t vẫn lm
+
+ht_cute (2025-07-02)
+ Nội dung: T setup này kia chứ
+
+khang128_6 (2025-07-02)
+ Nội dung: Định làm map phú giáo
+
+ht_cute (2025-07-02)
+ Nội dung: .
+
+ht_cute (2025-07-02)
+ Nội dung: .
+
+khang128_6 (2025-07-02)
+ Nội dung: Thôi
+
+ht_cute (2025-07-02)
+ Nội dung: Thế m ko đưa dkd ?
+
+ht_cute (2025-07-02)
+ Nội dung: Thế m đưa hdev t làm
+
+ht_cute (2025-07-02)
+ Nội dung: Dcm t đg lm dev
+
+ht_cute (2025-07-02)
+ Nội dung: Mắc chi cắt
+
+khang128_6 (2025-07-02)
+ Nội dung: M cài bot bậy bạ nữa
+
+ht_cute (2025-07-02)
+ Nội dung: Bot gì là bot bậy bạ ?
+
+ht_cute (2025-07-02)
+ Nội dung: <@1297370158763085835>
+
+khang128_6 (2025-07-02)
+ Nội dung: Mất niềm tin ở m
+
+ht_cute (2025-07-02)
+ Nội dung: Cái dcm t thêm bot gì má
+
+ht_cute (2025-07-02)
+ Nội dung: Cái map qk5 kia của m
+
+ht_cute (2025-07-02)
+ Nội dung: Trc t là thg lm chứ ai
+
+ht_cute (2025-07-02)
+ Nội dung: Dm tại t bị bán map
+
+ht_cute (2025-07-02)
+ Nội dung: Nên nó ms về tay m
+
+ht_cute (2025-07-02)
+ Nội dung: Chứ t đ thèm cài bot vào cái gr rách của m lmj đâu
+
+khang128_6 (2025-07-02)
+ Nội dung: Cần tìm người xây map rolay thôi
+
+ht_cute (2025-07-02)
+ Nội dung: T đây ô dcu
+
+khang128_6 (2025-07-02)
+ Nội dung: Là sao m bt xây đâu
+
+ht_cute (2025-07-02)
+ Nội dung: T ns t kbt khi nào ?
+
+khang128_6 (2025-07-02)
+ Nội dung: M xây đi
+
+ht_cute (2025-07-02)
+ Nội dung: Đ đưa map xây bằng mắt à :((
+
+khang128_6 (2025-07-02)
+ Nội dung: M làm sơ đồ rồi xây thôi
+
+ht_cute (2025-07-02)
+ Nội dung: M ảo à t build đồ vào map chứ
+
+ht_cute (2025-07-02)
+ Nội dung: ô
+
+ht_cute (2025-07-02)
+ Nội dung: T có phải nhà thiết kế đâu
+
+ht_cute (2025-07-02)
+ Nội dung: Thiết kế cũng đc
+
+ht_cute (2025-07-02)
+ Nội dung: Nhm t cần nhu cầu của cm
+
+ht_cute (2025-07-02)
+ Nội dung: T vẻ tay từng khu ra thôi
+
+khang128_6 (2025-07-02)
+ Nội dung: Trc khi người ta xây map là có sơ đồ mà cha
+
+ht_cute (2025-07-02)
+ Nội dung: Giờ m phải cho t mẫu
+
+ht_cute (2025-07-02)
+ Nội dung: Hay nhu cầu
+
+ht_cute (2025-07-02)
+ Nội dung: Để t vẻ chứ
+
+khang128_6 (2025-07-02)
+ Nội dung: Mẫu thì như map ông bảo á
+
+ht_cute (2025-07-02)
+ Nội dung: :))
+
+ht_cute (2025-07-02)
+ Nội dung: Hmmmn
+
+ht_cute (2025-07-02)
+ Nội dung: Để t coi
+
+ht_cute (2025-07-02)
+ Nội dung: Phải khác đi chứ má
+
+ht_cute (2025-07-02)
+ Nội dung: Sao lại giống đc
+
+khang128_6 (2025-07-02)
+ Nội dung: Phú giáo với thủ dầu 1 cũng kế nhau mà
+
+ht_cute (2025-07-02)
+ Nội dung: :))
+
+ht_cute (2025-07-02)
+ Nội dung: T chưa bt địa hình phú giáo m ơi
+
+ht_cute (2025-07-02)
+ Nội dung: Làm kiểu khác đi
+
+khang128_6 (2025-07-02)
+ Nội dung: Ừ
+
+ht_cute (2025-07-02)
+ Nội dung: Hmm
+
+ht_cute (2025-07-02)
+ Nội dung: Lm tỉnh ngoài bắc đi mâ
+
+khang128_6 (2025-07-02)
+ Nội dung: Xây lại như map cộng đồng Việt Nam thôi
+
+khang128_6 (2025-07-02)
+ Nội dung: Nghệ An m bt ko
+
+ht_cute (2025-07-02)
+ Nội dung: Thanh Hoá
+
+khang128_6 (2025-07-02)
+ Nội dung: Nữa hả
+
+ht_cute (2025-07-02)
+ Nội dung: Quê T
+
+khang128_6 (2025-07-02)
+ Nội dung: Group mình có người thanh hoá nữa á
+
+ht_cute (2025-07-02)
+ Nội dung: T này
+
+khang128_6 (2025-07-02)
+ Nội dung: Thanh Hóa thì t ko rành
+
+ht_cute (2025-07-02)
+ Nội dung: T ng thanh hoá mà
+
+ht_cute (2025-07-02)
+ Nội dung: T chỉ cho lo gì
+
+khang128_6 (2025-07-02)
+ Nội dung: Có máy ông kia nữa
+
+ht_cute (2025-07-02)
+ Nội dung: Ok
+
+ht_cute (2025-07-02)
+ Nội dung: Chốt Thanh Hoá nhé
+
+ht_cute (2025-07-02)
+ Nội dung: Nào t rảnh t ngồi vẽ sơ đồ cho
+
+khang128_6 (2025-07-02)
+ Nội dung: Dr nghe nói gái thanh hoá đẹp lắm
+
+ht_cute (2025-07-02)
+ Nội dung: Hahaa
+
+ht_cute (2025-07-02)
+ Nội dung: Chuẩn r đấy
+
+ht_cute (2025-07-02)
+ Nội dung: Đẹp chưaaa
+
+ht_cute (2025-07-02)
+ Nội dung: Hhhh
+
+khang128_6 (2025-07-02)
+ Nội dung: Mất ối quá
+
+ht_cute (2025-07-02)
+ Nội dung: M sn bnh
+
+khang128_6 (2025-07-02)
+ Nội dung: Chi
+
+ht_cute (2025-07-02)
+ Nội dung: Bớt giả nai đi em thích ns mẹ đi mắc ói
+
+ht_cute (2025-07-02)
+ Nội dung: Bt đường nch chứ chi
+
+ht_cute (2025-07-02)
+ Nội dung: Ô
+
+khang128_6 (2025-07-02)
+ Nội dung: Bình thường đi
+
+ht_cute (2025-07-02)
+ Nội dung: Bình cc m bé hơn t đấy
+
+ht_cute (2025-07-02)
+ Nội dung: Cấp role hdev cho t đi dume m
+
+khang128_6 (2025-07-02)
+ Nội dung: Tutu đi m bt làm logo ko
+
+ht_cute (2025-07-02)
+ Nội dung: Logo gì má
+
+khang128_6 (2025-07-02)
+ Nội dung: Bt được đất Bắc ko m
+
+ht_cute (2025-07-02)
+ Nội dung: Cái gì ?
+
+ht_cute (2025-07-02)
+ Nội dung: M lm ăn nhanh giúp t <@1297370158763085835>
+
+khang128_6 (2025-07-02)
+ Nội dung: Nhanh j
+
+ht_cute (2025-07-02)
+ Nội dung: Rep tn
+
+khang128_6 (2025-07-02)
+ Nội dung: <@1326787383181443163> lên đc 1k follow tiktok rồi
+
+ht_cute (2025-07-02)
+ Nội dung: Ok chúc mừng
+
+ht_cute (2025-07-02)
+ Nội dung: Ditcu m <@1297370158763085835>
+
+ht_cute (2025-07-02)
+ Nội dung: Chốt lm thanh hoá mà
+
+khang128_6 (2025-07-02)
+ Nội dung: Logo tạm
+
+ht_cute (2025-07-02)
+ Nội dung: Dume m nhìn tên
+
+ht_cute (2025-07-02)
+ Nội dung: Làm role nhà thiết kế cho t
+
+khang128_6 (2025-07-03)
+ Nội dung: <@1326787383181443163> cấp role rồi á
+
+ht_cute (2025-07-03)
+ Nội dung: Ok
+
+khang128_6 (2025-07-03)
+ Nội dung: Rồi M làm gì
+
+ht_cute (2025-07-03)
+ Nội dung: Nào t vẽ sơ đồ cho
+
+khang128_6 (2025-07-03)
+ Nội dung: <@1326787383181443163> thằng ken qua phá sv t rồi cứu
+
+ht_cute (2025-07-03)
+ Nội dung: T ns m r
+
+ht_cute (2025-07-03)
+ Nội dung: Đổi logo đi
+
+ht_cute (2025-07-03)
+ Nội dung: Đéo nghe
+
+ht_cute (2025-07-03)
+ Nội dung: Fake bno lmj
+
+khang128_6 (2025-07-03)
+ Nội dung: <@1326787383181443163> giờ tạo kênh lại giúp
+
+ht_cute (2025-07-03)
+ Nội dung: T đi viện mom
+
+khang128_6 (2025-07-03)
+ Nội dung: Nào ra
+
+ht_cute (2025-07-03)
+ Nội dung: Cả tuần
+
+ht_cute (2025-07-03)
+ Nội dung: M cứ lm đi
+
+khang128_6 (2025-07-07)
+ Nội dung: <@1326787383181443163> ê
+
+ht_cute (2025-07-07)
+ Nội dung: nói <@1297370158763085835>
+
+khang128_6 (2025-07-07)
+ Nội dung: <@1326787383181443163> cho t role j có quyền bên leak của 17 đi
+
+ht_cute (2025-07-07)
+ Nội dung: bên nào
+
+khang128_6 (2025-07-07)
+ Nội dung: DLC á
+
+ht_cute (2025-07-07)
+ Nội dung: role gì
+
+ht_cute (2025-07-07)
+ Nội dung: m lmj mà đòi có quyền
+
+khang128_6 (2025-07-07)
+ Nội dung: Cao cao tí làm j thì mai mốt biết với share vài model
+
+ht_cute (2025-07-07)
+ Nội dung: thôi thôi
+
+khang128_6 (2025-07-07)
+ Nội dung: <@1326787383181443163> đi mà
+
+khang128_6 (2025-07-07)
+ Nội dung: Quản lý đồ
+
+khang128_6 (2025-07-07)
+ Nội dung: <@1326787383181443163> lúc m xin thì t cho
+
+ht_cute (2025-07-07)
+ Nội dung: t kco quyền
+
+khang128_6 (2025-07-07)
+ Nội dung: Role owner mà ko có quyền
+
+ht_cute (2025-07-07)
+ Nội dung: kp gr t
+
+khang128_6 (2025-07-08)
+ Nội dung: <@1326787383181443163> ê muốn làm adnim gruop DCL
+
+ht_cute (2025-07-08)
+ Nội dung: Owner ko cho đâu cu
+
+khang128_6 (2025-07-08)
+ Nội dung: Adnim có gì đâu
+
+khang128_6 (2025-07-08)
+ Nội dung: Lúc m xin thì t cho giờ xin thì ko
+
+khang128_6 (2025-07-08)
+ Nội dung: Ae thế à
+
+ht_cute (2025-07-08)
+ Nội dung: Dcmm t đã nói t đéo có quyền rồi cứ lằng nhằng mãi thôi
+
+ht_cute (2025-07-08)
+ Nội dung: Đeo hiểu hay cố tình đéo hieue
+
+khang128_6 (2025-07-08)
+ Nội dung: <@1326787383181443163> role m mà ko có t chịu thua
+
+ht_cute (2025-07-08)
+ Nội dung: Nói bao lần r
+
+ht_cute (2025-07-08)
+ Nội dung: T cầm role
+
+ht_cute (2025-07-08)
+ Nội dung: Nhm đéo phải gr của t
+
+ht_cute (2025-07-08)
+ Nội dung: Dcmm ngáo đá à
+
+ht_cute (2025-07-08)
+ Nội dung: Cứ lằng nhà lằng nhằng
+
+ht_cute (2025-07-08)
+ Nội dung: Dcu m
+
+ht_cute (2025-07-08)
+ Nội dung: M thích kể công đk
+
+ht_cute (2025-07-08)
+ Nội dung: Thấy bố m thí cho m cái role ctn đấy
+
+ht_cute (2025-07-08)
+ Nội dung: M cầm về m dữ 1m m đi
+
+ht_cute (2025-07-08)
+ Nội dung: Dcmm
+
+khang128_6 (2025-07-08)
+ Nội dung: Địt mẹ t chỉ nói thôi
+
+ht_cute (2025-07-08)
+ Nội dung: Nói cái lồn
+
+ht_cute (2025-07-08)
+ Nội dung: Ns lâm vcl
+
+khang128_6 (2025-07-08)
+ Nội dung: Lồn má Á
+
+khang128_6 (2025-07-08)
+ Nội dung: Suốt ngày ra dẻ ta đây
+
+ht_cute (2025-07-08)
+ Nội dung: Nói thì nói ít thối
+
+ht_cute (2025-07-08)
+ Nội dung: Dcmm 2-3 lần
+
+ht_cute (2025-07-08)
+ Nội dung: Đ thấy mệt à
+
+khang128_6 (2025-07-08)
+ Nội dung: Ừ nhắn sao mệt :)))
+
+ht_cute (2025-07-08)
+ Nội dung: Dmm bận chăm công nghìn việc còn phải ở rep m nữa
+
+ht_cute (2025-07-08)
+ Nội dung: Ngáo cc vừa thôi
+
+ht_cute (2025-07-08)
+ Nội dung: M biến con mẹ m đi
+
+ht_cute (2025-07-08)
+ Nội dung: Địt con mẹ m cái game m bố m đánh bay luôn có chó ạ <@1297370158763085835>
+
+khang128_6 (2025-07-08)
+ Nội dung: Mệt quá xin lỗi
+
+khang128_6 (2025-07-08)
+ Nội dung: <@1326787383181443163> ê ở thanh Hóa có điểm du lịch nào ko
+
+ht_cute (2025-07-08)
+ Nội dung: Nhiều
+
+khang128_6 (2025-07-08)
+ Nội dung: T đi nghỉ dưỡng với ghé qua thanh Hóa kiếm đi du lịch
+
+--------------------------------------------------

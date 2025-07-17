@@ -1,0 +1,335 @@
+--- Lịch sử tin nhắn DM với: huynh.kiet (ID: 1340895271889932338) ---
+
+
+huynh.kiet (2025-02-17)
+ Nội dung: https://discord.gg/7r6QytWJ
+
+dn2501 (2025-02-17)
+ Nội dung: <a:dn_hunmieng:1312971824564535297>
+
+dn2501 (2025-02-17)
+ Nội dung: Cái này ở phần nào v ôg  :)))
+IMG_3929.png (URL: https://cdn.discordapp.com/attachments/1340895271889932338/1340896560397025280/IMG_3929.png?ex=6879c7bc&is=6878763c&hm=1a87cba66c6860165d532442720f32c3f0e94c618385c3bb5360a487eeab3256&)
+
+huynh.kiet (2025-02-17)
+ Nội dung: lunar year
+
+huynh.kiet (2025-02-26)
+ Nội dung: <@1135451773402873916>
+
+huynh.kiet (2025-02-26)
+ Nội dung: clm tự nhiên ăn ban bên hally rồi
+
+huynh.kiet (2025-02-26)
+ Nội dung: đéo biết gì luôn
+
+dn2501 (2025-02-26)
+ Nội dung: <a:HAHAHA:1321777732824338454>
+
+huynh.kiet (2025-02-26)
+ Nội dung: m có bị ko
+
+dn2501 (2025-02-26)
+ Nội dung: Ko :))
+
+huynh.kiet (2025-02-26)
+ Nội dung: hỏi cái thg mod xem t làm gì
+
+dn2501 (2025-02-26)
+ Nội dung: Thôi ôg ơi
+
+dn2501 (2025-02-26)
+ Nội dung: Trc đùa nhau mà th trung bị 7d
+
+dn2501 (2025-02-26)
+ Nội dung: Tạo acc mới thôi <a:DStore_gaidau:1301121177565270066>
+
+huynh.kiet (2025-02-26)
+ Nội dung: má rác dữ vậy
+
+dn2501 (2025-02-26)
+ Nội dung: Mà dis nhut ôg bị mute hay gì v
+
+huynh.kiet (2025-02-26)
+ Nội dung: ban mà ko hiểu lí do luôn
+
+huynh.kiet (2025-02-26)
+ Nội dung: đr
+
+huynh.kiet (2025-02-26)
+ Nội dung: 7 days
+
+dn2501 (2025-02-26)
+ Nội dung: Làm đéo gì mà bị mute
+
+dn2501 (2025-02-26)
+ Nội dung: Để tui rút kinh nghiệm
+
+huynh.kiet (2025-02-26)
+ Nội dung: joke mom vs thg l kia
+
+huynh.kiet (2025-02-26)
+ Nội dung: xong cái clone nó ăn ban
+
+huynh.kiet (2025-02-26)
+ Nội dung: tôi bị 7 days
+
+dn2501 (2025-02-26)
+ Nội dung: <a:HAHAHA:1321777732824338454>
+
+dn2501 (2025-04-02)
+ Nội dung: https://www.facebook.com/LuongDienD0ng?mibextid=LQQJ4d
+
+dn2501 (2025-04-02)
+ Nội dung: Real ko ôg
+
+huynh.kiet (2025-04-02)
+ Nội dung: https://www.facebook.com/share/12GLbSZGac9/
+
+dn2501 (2025-04-02)
+ Nội dung: Help :))
+
+dn2501 (2025-04-02)
+ Nội dung: Gdtg như nào :)))))))
+
+huynh.kiet (2025-04-02)
+ Nội dung: là
+
+huynh.kiet (2025-04-02)
+ Nội dung: t
+
+huynh.kiet (2025-04-02)
+ Nội dung: thg kia
+
+huynh.kiet (2025-04-02)
+ Nội dung: bank tiền cho thg trung gian
+
+huynh.kiet (2025-04-02)
+ Nội dung: kèm phí tg
+
+huynh.kiet (2025-04-02)
+ Nội dung: kèm phí tg
+
+huynh.kiet (2025-04-02)
+ Nội dung: xong m vào game đưa đồ cho nó
+
+huynh.kiet (2025-04-02)
+ Nội dung: xong r thì bảo done rồi thg tg chuyển tiền cho m
+
+dn2501 (2025-04-02)
+ Nội dung: R ôg ơi
+
+dn2501 (2025-04-02)
+ Nội dung: :))
+
+dn2501 (2025-04-02)
+ Nội dung: Ngon quá
+
+dn2501 (2025-04-02)
+ Nội dung: 1m5
+
+huynh.kiet (2025-04-02)
+ Nội dung: L.vc
+
+huynh.kiet (2025-04-02)
+ Nội dung: phải 2m-2m5
+
+dn2501 (2025-04-02)
+ Nội dung: Bán sớm
+
+dn2501 (2025-04-02)
+ Nội dung: :))
+
+dn2501 (2025-04-02)
+ Nội dung: Dead r
+
+dn2501 (2025-04-02)
+ Nội dung: Cút qua nền văn minh mới thôi
+
+huynh.kiet (2025-05-06)
+ Nội dung: local Players = game:GetService("Players")
+local player = Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local root = character:WaitForChild("HumanoidRootPart")
+
+function teleportToAntiMagicZone()
+    for _, obj in ipairs(workspace:WaitForChild("EffectZones"):GetChildren()) do
+        if obj.Name == "ZoneHitbox" and obj:IsA("Part") then
+            root.CFrame = CFrame.new(obj.Position + Vector3.new(0, 3, 0))
+            break
+        end
+    end
+end
+
+while true do
+    for _, obj in ipairs(game:GetDescendants()) do
+        if obj:IsA("TextLabel") and obj.Text:find("The Heavenly King is about to stun/destroy several units!") then
+            teleportToAntiMagicZone()
+            repeat task.wait(0.5) until not obj:IsDescendantOf(game)
+        end
+    end
+    task.wait(0.5)
+end
+
+huynh.kiet (2025-05-06)
+ Nội dung: đừng share ai
+
+dn2501 (2025-05-06)
+ Nội dung: T treo từ nãy r ôg
+
+huynh.kiet (2025-05-06)
+ Nội dung: địt mẹ
+
+dn2501 (2025-05-06)
+ Nội dung: Gì kì v
+
+huynh.kiet (2025-05-06)
+ Nội dung: xin team
+
+huynh.kiet (2025-05-06)
+ Nội dung: chỉnh ability sao bro
+
+huynh.kiet (2025-05-06)
+ Nội dung: xin luôn hình webhook
+
+huynh.kiet (2025-05-06)
+ Nội dung: cái thgian
+
+dn2501 (2025-05-06)
+ Nội dung: T để on start
+
+dn2501 (2025-05-06)
+ Nội dung: 
+IMG_5015.png (URL: https://cdn.discordapp.com/attachments/1340895271889932338/1369189504778506280/IMG_5015.png?ex=687937d8&is=6877e658&hm=266c878d647ad066da9c2b5dcaf549fe18eefb8240a32b4b60f08d937b5569fb&)
+
+huynh.kiet (2025-05-06)
+ Nội dung: 
+
+dn2501 (2025-05-06)
+ Nội dung: 
+IMG_5014.png (URL: https://cdn.discordapp.com/attachments/1340895271889932338/1369189529847730236/IMG_5014.png?ex=687937de&is=6877e65e&hm=4ec65c46fc58478dec6545a712886d582292c56be7fa4204d6058e95ea633168&)
+
+dn2501 (2025-05-06)
+ Nội dung: Cũng cũng
+
+dn2501 (2025-05-06)
+ Nội dung: Khoảng 7p
+
+dn2501 (2025-05-06)
+ Nội dung: Nhanh hơn thì do card
+
+huynh.kiet (2025-05-06)
+ Nội dung: con goku có tác dụng gì
+
+dn2501 (2025-05-06)
+ Nội dung: 30% dame boss
+
+dn2501 (2025-05-06)
+ Nội dung: 
+
+huynh.kiet (2025-05-06)
+ Nội dung: 
+
+dn2501 (2025-05-06)
+ Nội dung: Kill boss trc khi nó xoá unit mình là đc
+
+dn2501 (2025-05-06)
+ Nội dung: Ez
+
+huynh.kiet (2025-05-06)
+ Nội dung: vậy chắc auto play
+
+dn2501 (2025-05-06)
+ Nội dung: Thì auto play mà :)))
+
+dn2501 (2025-05-06)
+ Nội dung: Để 40 là đẹp
+
+huynh.kiet (2025-05-06)
+ Nội dung: cái gì 40
+
+huynh.kiet (2025-05-06)
+ Nội dung: kiểu này
+
+huynh.kiet (2025-05-06)
+ Nội dung: chắc phải
+
+huynh.kiet (2025-05-06)
+ Nội dung: thay con wukong đc ko
+
+dn2501 (2025-05-06)
+ Nội dung: Con nào cũng đc
+
+dn2501 (2025-05-06)
+ Nội dung: Miễn dame to
+
+huynh.kiet (2025-05-06)
+ Nội dung: m def ở đâu vậy
+
+huynh.kiet (2025-05-06)
+ Nội dung: giữa map à
+
+dn2501 (2025-05-06)
+ Nội dung: T để auto play mà
+
+huynh.kiet (2025-05-06)
+ Nội dung: chắc mang 1 con buff tiền đủ rồi
+
+dn2501 (2025-05-06)
+ Nội dung: Để 40%
+
+dn2501 (2025-05-06)
+ Nội dung: T mang 2 con nâng full team thừa 2m
+
+huynh.kiet (2025-05-06)
+ Nội dung: àaa
+
+huynh.kiet (2025-05-06)
+ Nội dung: vậy t tự chỉnh vị trí đặt luôn
+
+dn2501 (2025-06-19)
+ Nội dung: Ôg ơi
+
+dn2501 (2025-06-19)
+ Nội dung: Tui hỏi cái
+
+dn2501 (2025-06-19)
+ Nội dung: https://www.facebook.com/share/16fCT8qpEy/ th này gdtg ut ko
+
+huynh.kiet (2025-06-19)
+ Nội dung: ko biết
+
+huynh.kiet (2025-06-19)
+ Nội dung: chưa gdtg thg này bao h
+
+huynh.kiet (2025-06-19)
+ Nội dung: cứ điền đông thôi
+
+dn2501 (2025-06-19)
+ Nội dung: Xin vài tg ut đi b
+
+dn2501 (2025-06-19)
+ Nội dung: Đông off mịa r
+
+huynh.kiet (2025-06-19)
+ Nội dung: lợi
+
+dn2501 (2025-06-19)
+ Nội dung: Link ôg
+
+huynh.kiet (2025-06-19)
+ Nội dung: https://www.facebook.com/share/18oPZQ2fFP/
+
+dn2501 (2025-06-19)
+ Nội dung: https://discord.gg/FGKJYUdx
+
+dn2501 (2025-06-19)
+ Nội dung: Vô giúp tui làm event đi ôg pls
+
+huynh.kiet (2025-06-19)
+ Nội dung: rồi
+
+dn2501 (2025-06-19)
+ Nội dung: Ty
+
+--------------------------------------------------
